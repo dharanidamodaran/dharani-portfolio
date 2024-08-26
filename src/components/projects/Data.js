@@ -8,24 +8,28 @@ export const projectsData = [
         id: 1,
         image: Project1,
         title: "Project 1",
+        link: "https://github.com/dharanidamodaran/Quality_analysis_of_banana_",
         category: "A",
     },
     {
         id: 2,
         image: Project2,
         title: "Project 2",
+        link: "https://github.com/dharanidamodaran/Quality_analysis_of_banana_",
         category: "B",
     },
     {
         id: 3,
         image: Project3,
         title: "Project 3",
+        link: "https://github.com/dharanidamodaran/Login-Form",
         category: "C",
     },
     {
         id: 4,
         image: Project4,
         title: "Project 4",
+        link: "https://github.com/dharanidamodaran/weather_forecast",
         category: "D",
     },
 ];
