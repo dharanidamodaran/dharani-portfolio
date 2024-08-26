@@ -7,7 +7,7 @@ export const projectsData = [
     {
         id: 1,
         image: Project1,
-        title: "Quality Analysis Of banana",
+        title: "Quality Analysis Of Banana",
         link: "https://github.com/dharanidamodaran/Quality_analysis_of_banana_",
         category: "A",
     },
