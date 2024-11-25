@@ -97,14 +97,6 @@ const Qualification = () => {
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
                         </div>
-                        <div>
-                            <h3 className="qualification__title">Full Stack Web Developer</h3>
-                            <span className="qualification__subtitle">Brainvalley Software Pvt Ltd.</span>
-                            <div className="qualification__calendar">
-                                <HiOutlineCalendar className="qualification__calendar-icon" />
-                                Nov 2023-Apr 2024
-                            </div>
-                        </div>
                     </div>
                 </div>
                 </div>

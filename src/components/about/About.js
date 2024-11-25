@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/D.jpg";
-import CV from "../../assets/dharani_fullstack.pdf";
+import CV from "../../assets/DHARANI-D-.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -14,8 +14,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                As a full-stack developer, I craft sleek, 
-                minimalistic applications that prioritize intuitive and user-friendly interfaces for a seamless experience.
+                Bringing ideas to life with elegant designs and seamless front-end functionality.
                 </p>
                 <a download="" href={CV} className="button button--flex">
                     Download CV

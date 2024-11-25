@@ -56,10 +56,10 @@ const Data = () => {
             </svg>
         </h1>
         <h3 className="home__subtitle">
-            Full Stack Developer
+            Front-end Developer
         </h3>
         <p className="home__description">
-        Full-Stack Developer | Bridging Front-End and Back-End to Deliver Complete Solutions.
+        Front-end Developer | Passionate about building visually stunning and performance-driven front-end solutions.
         </p>
 
         <a href="#contact" className="button button--flex">
