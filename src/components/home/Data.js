@@ -55,11 +55,11 @@ const Data = () => {
                 ></path>
             </svg>
         </h1>
-        <h3 className="home__subtitle">
-            Front-end Developer
-        </h3>
+        {/* <h3 className="home__subtitle">
+           full stack developer
+        </h3> */}
         <p className="home__description">
-        Front-end Developer | Passionate about building visually stunning and performance-driven front-end solutions.
+        Gained hands-on experience in applying theoretical knowledge to practical projects.
         </p>
 
         <a href="#contact" className="button button--flex">
